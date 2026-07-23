@@ -1,0 +1,9 @@
+# Chain-Breaker Public Demo Requirements
+# Install: pip install -r requirements.txt
+
+# Standard library only for demos
+# No external dependencies required for basic demos
+
+# Optional for advanced features:
+# numpy>=1.20.0
+# ecdsa>=0.17.0
