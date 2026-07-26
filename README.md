@@ -121,3 +121,18 @@ git clone https://github.com/kaibuzz0/chain-breaker.git
 ---
 
 **⚡ Preserving Scripture for Eternity ⚡**
+
+## 🎮 Games
+
+Check out our cheesy biblical desktop games!
+
+| Game | Description |
+|------|-------------|
+| 📜 Scripture Scramble | Unscramble biblical words |
+| 🐍 Chain-Breaker Snake | Classic snake with scrolls |
+| 📖 Bible Memory Match | Match verse beginnings |
+
+[Play Games →](games/)
+
+---
+
