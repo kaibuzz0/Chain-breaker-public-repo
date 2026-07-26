@@ -19,7 +19,25 @@ Chain-Breaker is a **distributed scripture preservation system** that:
 
 ## 🚀 Quick Start
 
-### Option 1: Windows (Easiest)
+### 🚀 Quick Install (Windows)
+
+**One-Click Installer:**
+```powershell
+# Run in PowerShell as Administrator
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/kaibuzz0/Chain-breaker-public-repo/main/installers/ChainBreaker-Setup.bat" -OutFile "ChainBreaker-Setup.bat"
+.\ChainBreaker-Setup.bat
+```
+
+**Or manually:**
+1. Download `installers/ChainBreaker-Setup.bat`
+2. Right-click → "Run as Administrator"
+3. Done! ✅
+
+[View all Windows installers →](installers/)
+
+---
+
+## Option 1: Windows (Easiest)
 
 1. Download `install_easy.bat` from this repo
 2. **Right-click** → "Run as administrator"
