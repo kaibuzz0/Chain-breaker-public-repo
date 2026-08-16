@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-16T23:59:40Z",
+  "source_commit": "f26024c8e4fc98d950c452586b6d37665b6ff020",
+  "repo": {
+    "id": "chain-breaker-public-repo",
+    "full_name": "kaibuzz0/Chain-breaker-public-repo",
+    "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo",
+    "default_branch": "main"
+  },
+  "stats": {
+    "tracked_files": 27,
+    "python_files": 8,
+    "javascript_typescript_files": 0,
+    "workflow_files": 1,
+    "test_files": 1
+  },
+  "tools": [],
+  "toolsets": [],
+  "cases": [],
+  "opportunities": [],
+  "intelligence": [],
+  "sources": [],
+  "prompts": [],
+  "evidence": [],
+  "agent_ops": {},
+  "activity": [
+    {
+      "id": "f26024c8e4fc98d950c452586b6d37665b6ff020",
+      "type": "commit",
+      "title": "Connect repository to GitHub Command Site",
+      "timestamp": "2026-08-16T18:59:30-05:00",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/commit/f26024c8e4fc98d950c452586b6d37665b6ff020"
+    },
+    {
+      "id": "6a954d250d1612310c6fba99b6271bd74484688c",
+      "type": "commit",
+      "title": "Add games section to README",
+      "timestamp": "2026-07-25T19:54:05-05:00",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/commit/6a954d250d1612310c6fba99b6271bd74484688c"
+    },
+    {
+      "id": "6472319c2e27db8c9ea7290c0275e1f3a67a3b8a",
+      "type": "commit",
+      "title": "Add games README",
+      "timestamp": "2026-07-25T19:54:04-05:00",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/commit/6472319c2e27db8c9ea7290c0275e1f3a67a3b8a"
+    },
+    {
+      "id": "ace39523c5e8d3ad10cbab16d1842fdc2f675b71",
+      "type": "commit",
+      "title": "Add cheesy game: BibleMemoryMatch.py",
+      "timestamp": "2026-07-25T19:53:51-05:00",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/commit/ace39523c5e8d3ad10cbab16d1842fdc2f675b71"
+    },
+    {
+      "id": "c888fe2b215f27f5fd1c6ed1ff2480f6bf7fb3a6",
+      "type": "commit",
+      "title": "Add cheesy game: ChainBreakerSnake.py",
+      "timestamp": "2026-07-25T19:53:50-05:00",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/commit/c888fe2b215f27f5fd1c6ed1ff2480f6bf7fb3a6"
+    },
+    {
+      "id": "03a2f2817d1e574acf70fe893590a17df9137827",
+      "type": "commit",
+      "title": "Add cheesy game: ScriptureScramble.py",
+      "timestamp": "2026-07-25T19:53:49-05:00",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/commit/03a2f2817d1e574acf70fe893590a17df9137827"
+    },
+    {
+      "id": "e1a4f2702cbc266613cbb637ab5d00e3552ce441",
+      "type": "commit",
+      "title": "Add Windows installer quick start to README",
+      "timestamp": "2026-07-25T19:48:57-05:00",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/commit/e1a4f2702cbc266613cbb637ab5d00e3552ce441"
+    },
+    {
+      "id": "69e84cb42d9e7e2cf7e7ecb13eef0c1863221671",
+      "type": "commit",
+      "title": "Add Windows installer README for public repo",
+      "timestamp": "2026-07-25T19:48:56-05:00",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/commit/69e84cb42d9e7e2cf7e7ecb13eef0c1863221671"
+    },
+    {
+      "id": "747429fd67b3b87b0f45a85715b96876ba62d3e5",
+      "type": "commit",
+      "title": "Add Windows installer: ChainBreaker.spec",
+      "timestamp": "2026-07-25T19:48:45-05:00",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/commit/747429fd67b3b87b0f45a85715b96876ba62d3e5"
+    },
+    {
+      "id": "2e7de3b433a8a7cbdc493a87015a2060a73ae2dd",
+      "type": "commit",
+      "title": "Add Windows installer: installer.nsi",
+      "timestamp": "2026-07-25T19:48:44-05:00",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/commit/2e7de3b433a8a7cbdc493a87015a2060a73ae2dd"
+    }
+  ],
+  "links": [
+    {
+      "id": "github",
+      "name": "GitHub repository",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo"
+    },
+    {
+      "id": "actions",
+      "name": "GitHub Actions",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/actions"
+    },
+    {
+      "id": "issues",
+      "name": "Issues",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/issues"
+    }
+  ]
+}
