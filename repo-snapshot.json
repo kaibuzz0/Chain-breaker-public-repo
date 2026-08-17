@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T23:59:40Z",
-  "source_commit": "f26024c8e4fc98d950c452586b6d37665b6ff020",
+  "generated_at": "2026-08-17T00:20:20Z",
+  "source_commit": "1913767941e454a9e977fa73f008afaa2c174d95",
   "repo": {
     "id": "chain-breaker-public-repo",
     "full_name": "kaibuzz0/Chain-breaker-public-repo",
@@ -15,6 +15,197 @@
     "workflow_files": 1,
     "test_files": 1
   },
+  "repository_tree": {
+    "total_files": 27,
+    "total_directories": 4,
+    "files_truncated": false,
+    "directories_truncated": false,
+    "top_level": [
+      ".github",
+      "API.md",
+      "ARCHITECTURE.md",
+      "CHANGELOG.md",
+      "CONTRIBUTING.md",
+      "FAQ.md",
+      "INSTALL_GUIDE.md",
+      "LICENSE",
+      "README.md",
+      "TROUBLESHOOTING.md",
+      "USAGE_GUIDE.md",
+      "demo_anchor.py",
+      "demo_basic.py",
+      "demo_mobile.py",
+      "demo_simple.py",
+      "games",
+      "install_easy.bat",
+      "installers",
+      "requirements.txt",
+      "test_all.py"
+    ],
+    "directories": [
+      {
+        "path": ".github",
+        "name": ".github",
+        "depth": 1,
+        "file_count": 1
+      },
+      {
+        "path": ".github/workflows",
+        "name": "workflows",
+        "depth": 2,
+        "file_count": 1
+      },
+      {
+        "path": "games",
+        "name": "games",
+        "depth": 1,
+        "file_count": 4
+      },
+      {
+        "path": "installers",
+        "name": "installers",
+        "depth": 1,
+        "file_count": 5
+      }
+    ],
+    "files": [
+      {
+        "path": ".github/workflows/command-site-snapshot.yml",
+        "name": "command-site-snapshot.yml",
+        "extension": ".yml"
+      },
+      {
+        "path": "API.md",
+        "name": "API.md",
+        "extension": ".md"
+      },
+      {
+        "path": "ARCHITECTURE.md",
+        "name": "ARCHITECTURE.md",
+        "extension": ".md"
+      },
+      {
+        "path": "CHANGELOG.md",
+        "name": "CHANGELOG.md",
+        "extension": ".md"
+      },
+      {
+        "path": "CONTRIBUTING.md",
+        "name": "CONTRIBUTING.md",
+        "extension": ".md"
+      },
+      {
+        "path": "FAQ.md",
+        "name": "FAQ.md",
+        "extension": ".md"
+      },
+      {
+        "path": "INSTALL_GUIDE.md",
+        "name": "INSTALL_GUIDE.md",
+        "extension": ".md"
+      },
+      {
+        "path": "LICENSE",
+        "name": "LICENSE",
+        "extension": ""
+      },
+      {
+        "path": "README.md",
+        "name": "README.md",
+        "extension": ".md"
+      },
+      {
+        "path": "TROUBLESHOOTING.md",
+        "name": "TROUBLESHOOTING.md",
+        "extension": ".md"
+      },
+      {
+        "path": "USAGE_GUIDE.md",
+        "name": "USAGE_GUIDE.md",
+        "extension": ".md"
+      },
+      {
+        "path": "demo_anchor.py",
+        "name": "demo_anchor.py",
+        "extension": ".py"
+      },
+      {
+        "path": "demo_basic.py",
+        "name": "demo_basic.py",
+        "extension": ".py"
+      },
+      {
+        "path": "demo_mobile.py",
+        "name": "demo_mobile.py",
+        "extension": ".py"
+      },
+      {
+        "path": "demo_simple.py",
+        "name": "demo_simple.py",
+        "extension": ".py"
+      },
+      {
+        "path": "games/BibleMemoryMatch.py",
+        "name": "BibleMemoryMatch.py",
+        "extension": ".py"
+      },
+      {
+        "path": "games/ChainBreakerSnake.py",
+        "name": "ChainBreakerSnake.py",
+        "extension": ".py"
+      },
+      {
+        "path": "games/README.md",
+        "name": "README.md",
+        "extension": ".md"
+      },
+      {
+        "path": "games/ScriptureScramble.py",
+        "name": "ScriptureScramble.py",
+        "extension": ".py"
+      },
+      {
+        "path": "install_easy.bat",
+        "name": "install_easy.bat",
+        "extension": ".bat"
+      },
+      {
+        "path": "installers/ChainBreaker-Setup.bat",
+        "name": "ChainBreaker-Setup.bat",
+        "extension": ".bat"
+      },
+      {
+        "path": "installers/ChainBreaker.spec",
+        "name": "ChainBreaker.spec",
+        "extension": ".spec"
+      },
+      {
+        "path": "installers/README.md",
+        "name": "README.md",
+        "extension": ".md"
+      },
+      {
+        "path": "installers/installer.nsi",
+        "name": "installer.nsi",
+        "extension": ".nsi"
+      },
+      {
+        "path": "installers/quick-install.bat",
+        "name": "quick-install.bat",
+        "extension": ".bat"
+      },
+      {
+        "path": "requirements.txt",
+        "name": "requirements.txt",
+        "extension": ".txt"
+      },
+      {
+        "path": "test_all.py",
+        "name": "test_all.py",
+        "extension": ".py"
+      }
+    ]
+  },
   "tools": [],
   "toolsets": [],
   "cases": [],
@@ -25,6 +216,13 @@
   "evidence": [],
   "agent_ops": {},
   "activity": [
+    {
+      "id": "1913767941e454a9e977fa73f008afaa2c174d95",
+      "type": "commit",
+      "title": "Command site: enable repository Explorer snapshots",
+      "timestamp": "2026-08-16T19:20:10-05:00",
+      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/commit/1913767941e454a9e977fa73f008afaa2c174d95"
+    },
     {
       "id": "f26024c8e4fc98d950c452586b6d37665b6ff020",
       "type": "commit",
@@ -87,13 +285,6 @@
       "title": "Add Windows installer: ChainBreaker.spec",
       "timestamp": "2026-07-25T19:48:45-05:00",
       "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/commit/747429fd67b3b87b0f45a85715b96876ba62d3e5"
-    },
-    {
-      "id": "2e7de3b433a8a7cbdc493a87015a2060a73ae2dd",
-      "type": "commit",
-      "title": "Add Windows installer: installer.nsi",
-      "timestamp": "2026-07-25T19:48:44-05:00",
-      "url": "https://github.com/kaibuzz0/Chain-breaker-public-repo/commit/2e7de3b433a8a7cbdc493a87015a2060a73ae2dd"
     }
   ],
   "links": [
